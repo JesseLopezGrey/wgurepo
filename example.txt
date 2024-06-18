@@ -3,3 +3,5 @@ this is an example
 this is added line
 
 another line diff
+
+new changes to see
